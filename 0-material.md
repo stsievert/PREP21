@@ -66,7 +66,7 @@ Here are some other useful videos:
 
 * **Which model class should I use?** How to choose a model class: https://www.youtube.com/watch?v=7jjzMZOdPZw (18:37)
 
-* **What's a neural network?**  https://www.youtube.com/watch?v=aircAruvnKk (19:13) 
+* **What's a neural network?**  https://www.youtube.com/watch?v=aircAruvnKk (19:13)
 
 Also, I would skim Chapter 7 of "Shape" by Jordan Ellenburg (23 pages). It's light reading, and tells stiches a good story of optimization. The author, Jordan Ellenburg, is a mathematics professor at UW--Madison and experienced with optimization.
 
