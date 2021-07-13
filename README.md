@@ -6,7 +6,7 @@ $ git clone https://github.com/stsievert/PREP21.git
 $ # or download https://github.com/stsievert/PREP21.git
 $ cd PREP21
 $ conda env create -f env.yaml
-$ conda install ipykernel
+$ conda install ipykernel nb_conda_kernels
 $ jupyter lab
 ```
 
@@ -15,6 +15,7 @@ Alternatively, these commands should work:
 ``` shell
 $ pip install numpy scipy scikit-learn pandas seaborn
 $ conda install pytorch -c pytorch
+$ pip install skorch
 $ jupyter lab
 ```
 
