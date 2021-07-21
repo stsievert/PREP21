@@ -1,8 +1,8 @@
 
-Hello PREP students! My learning objectives are to answer these questions:
+Hello PREP students! I'm a graduate student studying optimization/machine learning, and I'm going to give you a lesson on optimization. My learning objectives are to answer these questions:
 
-* Why should I care about optimization?
-* What are the basics of optimization? How do I get a better solution?
+* Why should you care about optimization?
+* What are the basics of optimization? How do you get a better solution?
 * Where does optimization fail?
 
 "Optimization" is producing a *model* that accurately represents *data*, aka "fitting" a model to data. Importantly, the choice of "model" and "data" are perhaps more important than the specific method of fitting the model to the data. In short, optimization is what happens with this code:
@@ -52,7 +52,7 @@ This is enough background to get understand my examples. In the example, I'll hi
 
 # Demo
 
-The videos above are all the material you need for the demo. To follow along for me demos, visit https://github.com/stsievert/PREP21/blob/master/README.md
+The videos above are all the material you need for the demo. To follow along for me demos, visit https://github.com/stsievert/PREP21/blob/main/README.md. If you have difficulty, email me at stsievert@wisc.edu.
 
 # Want to learn more?
 
